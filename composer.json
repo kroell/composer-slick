@@ -9,7 +9,5 @@
         }
     ],
     "license": "MIT",
-    "type": "component",
-    "require": {
-    },
+    "type": "component"
 }
