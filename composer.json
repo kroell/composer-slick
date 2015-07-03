@@ -9,5 +9,6 @@
         }
     ],
     "license": "MIT",
-    "type": "component"
+    "type": "component",
+    "version": "1.5.5"
 }
